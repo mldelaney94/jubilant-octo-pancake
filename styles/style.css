@@ -1,0 +1,36 @@
+/* This is the style for my google webpage
+ * It will need 11 divs: 
+ * 1 for the header, 
+ * 3 across for the image
+ * 3 across for the search bar
+ * 3 across for the space underneath the search bar
+ * 1 for the footer
+ */
+
+#header {
+    width: 100%;
+    height: 10%
+    text-align: right;
+}
+
+#top {
+    width: 33%;
+}
+
+#searchbar_l {
+    
+}
+
+#searchbar {
+
+}
+
+#searchbar_r {
+}
+
+#bottom {
+}
+
+#footer {
+    clear: both;
+}
